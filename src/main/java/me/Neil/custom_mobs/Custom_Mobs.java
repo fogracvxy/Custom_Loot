@@ -20,9 +20,4 @@ public final class Custom_Mobs extends JavaPlugin {
         System.out.println("Custom mobs plugin enabled");
 
     }
-
-    @Override
-    public void onDisable() {
-        // Plugin shutdown logic
-    }
 }
