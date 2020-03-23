@@ -1,0 +1,10 @@
+name: Custom_Mobs
+version: ${project.version}
+main: me.Neil.custom_mobs.Custom_Mobs
+api-version: 1.13
+authors: [2547technowizz]
+description: Adds custom boss mobs to natural mob spawn
+commands:
+  customitems:
+    description: access all custom items
+    usuage: /<command>
